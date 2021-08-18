@@ -30,7 +30,7 @@
         "jolicode/jolinotif": "~1.2",
         "doctrine/dbal": "~2.5",
         "symfony/yaml": "~3.2",
-        "pusher/pusher-php-server": "~3.0"
+        "pusher/pusher-php-server": "~4.0"
     },
 
     "require-dev": {
